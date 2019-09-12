@@ -4,6 +4,12 @@
 
 *A PHP library providing an implementation of the modified preorder tree traversal algorithm*
 
+#### Differences with main repository
+
+1. database drivers 
+- mysqli
+- pdo 
+
 [![Latest Stable Version](https://poser.pugx.org/stefangabos/zebra_mptt/v/stable)](https://packagist.org/packages/stefangabos/zebra_mptt) [![Total Downloads](https://poser.pugx.org/stefangabos/zebra_mptt/downloads)](https://packagist.org/packages/stefangabos/zebra_mptt) [![Monthly Downloads](https://poser.pugx.org/stefangabos/zebra_mptt/d/monthly)](https://packagist.org/packages/stefangabos/zebra_mptt) [![Daily Downloads](https://poser.pugx.org/stefangabos/zebra_mptt/d/daily)](https://packagist.org/packages/stefangabos/zebra_mptt) [![License](https://poser.pugx.org/stefangabos/zebra_mptt/license)](https://packagist.org/packages/stefangabos/zebra_mptt)
 
 ## What is Modified Preorder Tree Traversal
@@ -140,7 +146,7 @@ Main repository (mysqli depended):
 -  [erlingormar](https://github.com/erlingormar)
 -  [Dominik Fiala](https://github.com/dominikfiala)
 
-This repository (mysqli independed):
+This repository (mysqli independent):
 -  [writ3it](https://github.com/writ3it)
 
 ### Support the development of [main version of this library](https://github.com/stefangabos/Zebra_Mptt) 
