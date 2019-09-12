@@ -26,9 +26,6 @@ Zebra\_Mptt uses [table locks](http://dev.mysql.com/doc/refman/5.0/en/lock-table
 
 :books: Check out the [awesome documentation](https://stefangabos.github.io/Zebra_Mptt/Zebra_Mptt/Zebra_Mptt.html)!
 
-## Support the development of this library
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=49VT6G7L5GPAS)
 
 ## Features
 
@@ -131,3 +128,23 @@ Step 3. Run tests (phpunit, see composer.json scripts)
 ```bash
 composer test
 ```
+
+## Contributors
+
+#### Thanks goes to these wonderful people:
+
+Main repository (mysqli depended):
+
+-  [stefangabos](https://github.com/stefangabos) - master developer
+-  [Patrick Cauley](https://github.com/cranesandcaff) 
+-  [erlingormar](https://github.com/erlingormar)
+-  [Dominik Fiala](https://github.com/dominikfiala)
+
+This repository (mysqli independed):
+-  [writ3it](https://github.com/writ3it)
+
+### Support the development of [main version of this library](https://github.com/stefangabos/Zebra_Mptt) 
+
+Zebra libraries are good stuff framework-agnostic. If would you like to support click below!
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=49VT6G7L5GPAS)
