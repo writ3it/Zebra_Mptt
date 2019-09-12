@@ -151,6 +151,6 @@ This repository (mysqli independent):
 
 ### Support the development of [main version of this library](https://github.com/stefangabos/Zebra_Mptt) 
 
-Zebra libraries are good stuff framework-agnostic. If would you like to support click below!
+Zebra libraries are good framework-agnostic components. If would you like to support, click below!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=49VT6G7L5GPAS)
